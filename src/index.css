@@ -67,3 +67,37 @@ nav{
  .stn1{
  height: 50px;
  }
+
+ input{
+background-color: rgb(240, 240, 240);
+border-radius: 7px;
+
+    font-size: large;
+
+  
+ }
+
+ a{
+  margin-top: 1vh;
+ }
+
+ .baslik{
+  background-color: #ffa994;
+  color: white;
+  border-radius: 10px;
+  box-shadow: 1px 1px 7px 1px #f5c5ba ;
+  border:1px solid rgb(221, 221, 221);
+  padding:1vh 0 1vh 0 ;
+  }
+
+  .info{
+    border:2px solid #f5e8e5;
+    margin-top: 1.5vh;
+    border-radius:10px;
+    background-color: #f7f7f7;
+    box-shadow: 1px 1px 7px 1px rgb(226, 226, 226) ;
+    padding:1vh 0 1vh 0vh ;
+    background-color: white;
+   
+    }
+  
