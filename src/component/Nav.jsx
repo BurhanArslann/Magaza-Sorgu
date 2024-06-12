@@ -8,9 +8,6 @@ const Nav = () =>{
                 <li className="logo"><a href=""><img src="/assets/logo.svg" alt="" /></a></li>
                 <li className="li-a"><a href="">Mağazalar</a></li>
                 <li className="li-a" ><a href="">Personeller</a></li>
-              
-               
-                
             </ul>
         </nav>
         
