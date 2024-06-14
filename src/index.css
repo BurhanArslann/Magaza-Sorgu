@@ -118,12 +118,22 @@ border-radius: 7px;
       
     }
     .satir-sayisi{
-      
-      margin-right: 3vh;
+      margin-left:8vh;
       font-weight: 800;
-      border:2px solid rgb(228, 228, 228);
-  
-      border-radius: 10px;
       padding:.5vh;
       color: #949494;
+    }
+    .pagination{
+      border-radius: 10px;
+    }
+    .brdr{
+      border: 1px solid red;
+    }
+
+    .pink{
+      background-color: #ffa994;
+    }
+
+    .radius {
+      border-radius: 10px;
     }
